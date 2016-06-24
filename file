@@ -1,13 +1,11 @@
-we'll make 3 changes
+we'll make 3 commits
 
-we'll commit 3 times
+then squash into one commit
 
-then we'll squash into one commit 
+then push to remote
 
-then we push to the remote
+so this is the frst commit
 
-so this for the first commit ( local commit )
+this is for the second
 
-second
-
-and the last
+the last 
